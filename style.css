@@ -12,6 +12,6 @@ nav a {
 }
 
 p #featured-property {
-  align-content: center;
+  text-align:center;
   width: 800px;
 }
