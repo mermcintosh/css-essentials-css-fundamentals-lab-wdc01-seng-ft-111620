@@ -1,9 +1,11 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 50;
+  margin: 0;
 }
 
-h1,nav,figure {
+h1,figure {
   text-align: center;
 }
+
+
