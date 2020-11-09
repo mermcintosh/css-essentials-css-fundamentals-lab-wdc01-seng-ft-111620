@@ -15,5 +15,8 @@ nav a {
   background-color: grey
 }
 
-
+p #featured-property {
+  text-align:center;
+  width: 800px;
+}
 
