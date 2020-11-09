@@ -3,3 +3,20 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1,figure {
+  text-align: center;
+}
+
+nav a {
+  align-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey
+}
+
+p#featuredproperty{
+  text-align:center;
+  width: 800px;
+}
+
