@@ -4,22 +4,3 @@ body {
   margin: 0;
 }
 
-h1,figure {
-  text-align: center;
-}
-
-nav a {
-  align-content: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: grey
-}
-
-p #featured-property {
-  text-align:center;
-  width: 800px;
-}
-
-#details {
-  text-orientation: upright;
-}
