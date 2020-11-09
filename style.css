@@ -9,7 +9,7 @@ h1,figure {
 }
 
 nav a {
-  text-align: center;
+  align-content: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey
